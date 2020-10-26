@@ -31,6 +31,26 @@ nlu:
     - bye bye
     - see you later
 
+- intent: inform
+  examples: |
+    - [english](subject)
+    - [mathematics](subject)
+    - [commerce](subject)
+    - [accounting](subject)
+    - [biology](subject)
+    - [physics](subject)
+    - [chemistry](subject)
+
+- intent: give_question
+  examples: |
+    - I need a [physics](subject) question
+    - Quiz me
+    - ask me a past question
+    - ask me a [chemistry](subject) question
+    - ask me a question
+    - I want a [biology](subject) question
+    - give me a question
+
 - intent: affirm
   examples: |
     - yes
