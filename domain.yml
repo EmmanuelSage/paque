@@ -8,10 +8,26 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - inform
+  - give_question
+
+entities:
+  - subject
+
+actions:
+  - action_get_question
+
+slots:
+  subject:
+    type: text
+    influence_conversation: false
+  slot_question:
+    type: text
+    influence_conversation: false
 
 responses:
   utter_greet:
-  - text: "Hey! How are you?"
+  - text: "Hey! I am Paque I would give you questions in any subject.\n which subject would you like"
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"
@@ -24,7 +40,7 @@ responses:
   - text: "Great, carry on!"
 
   utter_goodbye:
-  - text: "Bye"
+  - text: "Bye thanks for asking for a {subject} question, \n by the way the slot ques slot is {slot_question}"
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."

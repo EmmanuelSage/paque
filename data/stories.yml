@@ -21,6 +21,8 @@ stories:
     entities:
       - subject: "chemistry"
   - action: action_get_question
+  - slot_was_set:
+    - slot_question: "this is a testquestion test"
   - intent: goodbye
   - action: utter_goodbye
 
