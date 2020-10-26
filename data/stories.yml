@@ -2,6 +2,28 @@ version: "2.0"
 
 stories:
 
+- story: Get a question happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: inform
+  - action: action_get_question 
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: Get a question and ask happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: inform
+  - action: action_get_question
+  - intent: give_question
+    entities:
+      - subject: "chemistry"
+  - action: action_get_question
+  - intent: goodbye
+  - action: utter_goodbye
+
 - story: happy path
   steps:
   - intent: greet
