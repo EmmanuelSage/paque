@@ -17,6 +17,26 @@ nlu:
     - goodevening
     - good afternoon
 
+- intent: know_how_many_subjects
+  examples: |
+    - how many subjects do you have
+    - do you have enough subjects
+    - which subjects can you give me
+    - tell me the subjects you can give me
+    - show me a list of subjects you have
+    - I would like to know the subjects
+    - which subjects
+    - list all your subjects
+    - which subjects can I choose from
+    - give me a list of your subjects
+    - subject list
+    - subjects ?
+    - tell me subjects I can choose from
+
+- intent: start
+  examples: |
+    - what are you about
+
 - intent: goodbye
   examples: |
     - good afternoon
@@ -39,17 +59,30 @@ nlu:
     - [accounting](subject)
     - [biology](subject)
     - [physics](subject)
-    - [chemistry](subject)
+    - [crk](subject)
+    - [irk](subject)
+    - [geography](subject)
+    - [history](subject)
+    - [government](subject)
+    - [insurance](subject)
 
 - intent: give_question
   examples: |
-    - I need a [physics](subject) question
-    - Quiz me
-    - ask me a past question
-    - ask me a [chemistry](subject) question
-    - ask me a question
-    - I want a [biology](subject) question
-    - give me a question
+    - lets do a [physics](subject) question
+    - awesome quiz me [irk](subject)
+    - quiz me on [maths](subject)
+    - okay, lets try [chemistry](subject) questions
+    - awesome lets do [irk](subject)
+    - nice, I want a [biology](subject) question
+    - give me a questions for [english](subject)
+    - oh cool, give me questions for [english](subject) 
+
+- intent: select_answer
+  examples: |
+    - [a](selected_answer)
+    - [b](selected_answer)
+    - [c](selected_answer)
+    - [d](selected_answer)
 
 - intent: affirm
   examples: |

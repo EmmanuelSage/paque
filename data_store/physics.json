@@ -1,0 +1,645 @@
+{
+  "subject": "physics",
+  "data": [
+    {
+      "id": 64,
+      "question": "A train has an initial velocity of 44m/s and an acceleration of -4m/s2 what is its velocity after 10seconds? ",
+      "option": {
+        "a": "2m/s ",
+        "b": "4m/s ",
+        "c": "8m/s ",
+        "d": "12m/s "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 10,
+      "question": "  A convex lens of focal length 10.0cm is used to form a real image which is half the size of the object. How far from the object is the image? ",
+      "option": {
+        "a": "45cm ",
+        "b": "30cm ",
+        "c": "15cm ",
+        "d": "20cm"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 16,
+      "question": "The principle of operation of an induction coil is based on ",
+      "option": {
+        "a": "Ohm’s law ",
+        "b": "Ampere’s Law ",
+        "c": "Faraday’s Law ",
+        "d": "Coulomb’s Law"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 13,
+      "question": "Light wave and ripples of water are similar because both",
+      "option": {
+        "a": "are longitudinal waves ",
+        "b": "have the same velocity ",
+        "c": "can be diffracted and refracted ",
+        "d": "have the same frequency "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 124,
+      "question": "A coin is at the bottom of a bucket filled with a liquid whose refractive index is 1.35. The coin appears to be 12.0cm below the surface of the liquid. Calculate the depth of the liquid.",
+      "option": {
+        "a": "16.2cm  ",
+        "b": "13.4cm  ",
+        "c": "8.9cm  ",
+        "d": "5.4cm"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 81,
+      "question": "The superposition of two or more waves to produce a maximum or zero effect at a point is known as: ",
+      "option": {
+        "a": "reflection ",
+        "b": "refraction ",
+        "c": "diffraction ",
+        "d": "interference"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 90,
+      "question": "Which of the following statements is not true about a body performing simple harmonic motion? ",
+      "option": {
+        "a": "the linear speed is the product of the angular speed and the radius or amplitude ",
+        "b": "the linear acceleration is the product of the square of the angular speed and the displacement ",
+        "c": "frequency is the number of complete revolution per second made by a vibrating body ",
+        "d": "the S.I unit of amplitude is Hertz (Hz)"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 76,
+      "question": "An air bubble at the bottom of a lake has a volume of 20cm3, pressure of 4.9Pa, and temperature 4oc the bubble rises to the surface where the temperature is 20oc and the pressure 1.0Pa. Find the volume as the bubble reaches the surface. (take 1 atm = 1.0 x 105 N/m2) ",
+      "option": {
+        "a": "124cm3 ",
+        "b": "319cm3 ",
+        "c": "60cm3 ",
+        "d": "104 cm3"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 47,
+      "question": "If the force on a charge of 0.2 Coulomb in an electric field is 4N, then electric intensity of the field is ",
+      "option": {
+        "a": "0.8",
+        "b": "0.8N/C  ",
+        "c": "20.0 N/C ",
+        "d": "4.2 N/C "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 30,
+      "question": "A temperature scale has a lower fixed point of 40mm and an upper fixed point of 200mm. What is the reading on this scale when the temperature reads 60oc? ",
+      "option": {
+        "a": "136.omm ",
+        "b": "33.3mm ",
+        "c": "96.0mm ",
+        "d": "36.0mm"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 101,
+      "question": "An object is said to be in simple harmonic motion (SHM) if  ",
+      "option": {
+        "a": "the acceleration is directly proportional to the displacement and is directed towards the equilibrium position of the object. ",
+        "b": "the acceleration is inversely proportional to the displacement and directed toward the equilibrium position  of the object  ",
+        "c": "the displacement is directly proportional  to the momentum  and directed toward the equilibrium position of  the object ",
+        "d": "the momentum is directly proportional to the displacement and directed toward the equilibrium position of the object."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 106,
+      "question": "Which of the following is not a thermometer?  ",
+      "option": {
+        "a": "thermocouple  ",
+        "b": "pyrometer  ",
+        "c": "hydrometer  ",
+        "d": "platinum resistance thermometer. "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 45,
+      "question": "To find the dept of the sea, a ship send out a second waves and an echo after one second. If the velocity of sound in water is 1500m/s, what is the depth of the sea ",
+      "option": {
+        "a": "0.75km ",
+        "b": "1.50km ",
+        "c": "2.20km ",
+        "d": "3.00km "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 31,
+      "question": "A 500kg car was initially at rest travelled with an acceleration of 5ms-2, what is its kinetic energy after 4s ",
+      "option": {
+        "a": "2.5 x 103J ",
+        "b": "105J ",
+        "c": "5 x 103J ",
+        "d": "5 x 105J"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 8,
+      "question": " A quantity of ice –10oc is heated until temperature of heating vessel is 90oc. Which of the following constant is NOT required to determine the quantity of heat supplied to the vessel? ",
+      "option": {
+        "a": "Specific latent heat of vaporization ",
+        "b": "specific heat capacity of ice ",
+        "c": "specific latent heat of fusion ",
+        "d": "specific heat capacity of water"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 58,
+      "question": "The resistance of a 5m uniform wire of cross sectional area of 0.2 x 106m2 is 0.45. What is the resistivity of the material of the wire ",
+      "option": {
+        "a": "1.10 x 105 ohms ",
+        "b": "4.25 x106Ωm ",
+        "c": "2.40 x 107Ωm ",
+        "d": "1.70 x 108Ωm "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 18,
+      "question": "The half-life of a radioactive element is 9 days. What fraction of atoms has decayed in 36 days? ",
+      "option": {
+        "a": "16-Jan",
+        "b": "¼ ",
+        "c": " ½ ",
+        "d": "15/16"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 91,
+      "question": "In the force of gravity on an object of mass m, the gravitational field strength, g, is given by the following equation. ",
+      "option": {
+        "a": "g = √MF ",
+        "b": "g = MF ",
+        "c": "g = M√F ",
+        "d": "g = F/M."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 41,
+      "question": "Two bodies P and Q are projected on the same horizontal plane, with the same initial speed but at different angles of 30o and 60o respectively to the horizontal. Neglecting air resistance, what is the ratio of range of P to that of Q? ",
+      "option": {
+        "a": "1:01",
+        "b": "1:√3 ",
+        "c": "√3:1 ",
+        "d": "1:02"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 51,
+      "question": "A devise that converts sound energy into electrical energy is ",
+      "option": {
+        "a": "the horn of a motor car ",
+        "b": "An AC generator ",
+        "c": "A microphone ",
+        "d": "Telephone earpiece "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 15,
+      "question": "A coil of copper wire of N turns is kept rotating between the poles of a magnet  such that the magnetic flux linking the coil changes continuously. Which of the  following statements is TRUE? ",
+      "option": {
+        "a": "An e.m.f is induced in the coil such that when  the change of flux is positive the e.m.f is positive, and when the change of flux is negative the e.m.f is negative. ",
+        "b": "An e.m.f is induced in the coil whose magnitude  is inversely proportional to both the number of turns in the coil and the rate of  change of magnetic flux ",
+        "c": ". An e.m.f is set up in the permanent magnet which  reduces the flux in the coil to zero ",
+        "d": "A current flows in the coil and e.m.f is set  up proportional to both the rate of change of the flux and the number of turns"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 82,
+      "question": "The acceleration due to gravity ",
+      "option": {
+        "a": "increases with increasing altitude ",
+        "b": "decreases with increasing altitude ",
+        "c": "increases with increase in the square of the altitude ",
+        "d": "is not affected by the altitude"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 44,
+      "question": "If two masses 40g and 60g respectively, are attached firmly to end of a light metre rule, what is the centre of gravity of the system? ",
+      "option": {
+        "a": "at the mid point of the metre rule ",
+        "b": "40cm from the lighter mass ",
+        "c": "40cm from the heavier masses ",
+        "d": "60cm from the heavier masses "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 34,
+      "question": "An air column 10cm in length is trapped into the sealed end of a capillary tube by a 15cm column of mercury with the tube held vertically. On inverting the tube, the air column becomes 15cm long, what is the atmospheric pressure during the experiment? ",
+      "option": {
+        "a": "76cm ",
+        "b": "75cm ",
+        "c": "60cm ",
+        "d": "70cm"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 97,
+      "question": "A sample of radioactive substance, whose half-life is 16 days, registers 32 decays per second. How long will it take for the rate of decay to reduce to 2 decays per second? ",
+      "option": {
+        "a": "80 days  ",
+        "b": "64 days  ",
+        "c": "48 days  ",
+        "d": "32 days"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 49,
+      "question": "Which of these is not contained in a dry cell? ",
+      "option": {
+        "a": "carbon rod ",
+        "b": "paste of magnesium dioxide ",
+        "c": "paste of ammonium chloride ",
+        "d": "zinc case "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 61,
+      "question": "The product PV where P is pressure and V is a volume has the same unit as ",
+      "option": {
+        "a": "force ",
+        "b": "power ",
+        "c": "energy ",
+        "d": "acceleration "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 118,
+      "question": "Three knives made of steel, plastic and flat wood respectively are placed on the table for an equal amount of time. The steel knife feels coldest to touched because",
+      "option": {
+        "a": "The steel knife has the lowest temperature ",
+        "b": "The plastic and wooden knives have absorbed more heat from the environment than the steel knife. ",
+        "c": "Both wooden and plastic knives have lower densities than the steel ",
+        "d": "The steel knife conducts heat faster from the finger than the wooden and plastic knives "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 84,
+      "question": "Which of the following statements is not true? ",
+      "option": {
+        "a": "electric field intensity is force per unit charge. ",
+        "b": "electric potential is a vector ",
+        "c": "the S.I unit of electric field strength is N/C ",
+        "d": "electric field intensity is equal to the potential gradient"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 129,
+      "question": "To convert an a.c generator to d.c generator, one needs to ",
+      "option": {
+        "a": "Remove the brush touching the slip rings ",
+        "b": "Laminate the armature ",
+        "c": "Replace the permanent magnets with  iron-core armature. ",
+        "d": "replace the slip rings with split rings"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 14,
+      "question": "Three 4Ω resistors were connected in series by Tola, while Ade connected the ",
+      "option": {
+        "a": "1:02",
+        "b": "1:09",
+        "c": "1:10",
+        "d": "1:15"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 22,
+      "question": "A vehicle of mass m is driven by an engine of power P from rest. Find the minimum time it will take to acquire a speed v. ",
+      "option": {
+        "a": "mv2/p ",
+        "b": "mv2/2p ",
+        "c": "mv/p ",
+        "d": "mv/2p"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 36,
+      "question": "The speed of light in air is 3 x 108ms-1. If the refractive index of light from air to water is 4/3, calculate the speed of light in water ",
+      "option": {
+        "a": "2.25 x 108ms-2 ",
+        "b": "2.25ms-1 ",
+        "c": "4.00ms-1 ",
+        "d": "4.33ms-1"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 32,
+      "question": "The temperature at which the water vapour in the air saturates the air and begins to condense is",
+      "option": {
+        "a": "melting point ",
+        "b": "triple point ",
+        "c": "dew point ",
+        "d": "melting point"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 72,
+      "question": "A mass of 0.5kg is attached to one end of a helical spring and produces an extension of 2.5cm. The mass now set into vertically oscillation of amplitude 10mm. The period of oscillation is: (g = 10m/s2) ",
+      "option": {
+        "a": "0.33s ",
+        "b": "100s ",
+        "c": "200s ",
+        "d": "280s"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 43,
+      "question": "Which of these is not a fundamental S.I unit ",
+      "option": {
+        "a": "Ampere ",
+        "b": "Kelvin ",
+        "c": "Seconds ",
+        "d": "Radians"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 110,
+      "question": "A p-n junction can act as  ",
+      "option": {
+        "a": "an amplifier  ",
+        "b": "a rectifier  ",
+        "c": "an inductor ",
+        "d": "a capacitor "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 12,
+      "question": "The most suitable type of mirror used for the construction of search light is the: ",
+      "option": {
+        "a": "concave mirror ",
+        "b": "Convex mirror ",
+        "c": "Spherical mirror ",
+        "d": "Parabolic Mirror"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 98,
+      "question": "When white light passes through a triangular prism, the emerging rays of light arranged in order of decreasing angle of deviation are ",
+      "option": {
+        "a": "red, orange, yellow, green  ",
+        "b": "blue, green,  orange, yellow ",
+        "c": "red, green, yellow, orange ",
+        "d": "blue, green, yellow, orange"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 128,
+      "question": "Five 100-Watt bulbs are put on for 45days during which the home-owner is on vacation. If 1kW-hour of electricity cost N7.50, how much does it cost the home-owner? ",
+      "option": {
+        "a": "N168.75  ",
+        "b": "N90.0  ",
+        "c": "N4050.00  ",
+        "d": "N810.00"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    }
+  ]
+}

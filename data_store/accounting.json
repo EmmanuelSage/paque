@@ -1,0 +1,645 @@
+{
+  "subject": "accounting",
+  "data": [
+    {
+      "id": 7,
+      "question": "A debit balance on a bank statement indicates that ",
+      "option": {
+        "a": "bank is a debtor to the customer ",
+        "b": "customer is a debtor to the bank ",
+        "c": "bank is not a creditor to the customer ",
+        "d": "customer is not a debtor to the bank"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 387,
+      "question": "The document prepared by a local/district government to present its annual estimates for a planning period is",
+      "option": {
+        "a": "a balance sheet",
+        "b": "budget",
+        "c": "an income and expenditure account",
+        "d": "a cash book"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 383,
+      "question": "Calculate the stock figure to be included in the balance sheet at the year end.",
+      "option": {
+        "a": "D408,000",
+        "b": "D346,000",
+        "c": "D284,000",
+        "d": "D62,000"
+      },
+      "section": " Use the following information to answer question: Branch stock account (at selling price)  D346,000 - debit Branch mark-up account D62,000 - debit",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 244,
+      "question": "Which of the following is not a debit item in a creditor’s control \taccount?",
+      "option": {
+        "a": "Cash paid",
+        "b": "Returns outwards",
+        "c": "Purchases",
+        "d": "Discounts received"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 15,
+      "question": "Money spent on buying of plots of land by a firm is ",
+      "option": {
+        "a": "Capital Expenditure ",
+        "b": "capital receipts ",
+        "c": "Revenue Expenditure",
+        "d": " Revenue Receipts"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 325,
+      "question": "Which of the following is not revealed by a firm’s accounting records?",
+      "option": {
+        "a": "Profit of a period",
+        "b": "Quality of labour force",
+        "c": "Credit worthiness",
+        "d": "Value of assets"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 437,
+      "question": "Purchases of raw materials amount to N  81 000, direct labour is N  38 000 and factory overhead N  29 000. Calculate the prime cost.",
+      "option": {
+        "a": "N 176,000",
+        "b": "N 170,000",
+        "c": "N 167,000",
+        "d": "N  156,000."
+      },
+      "section": "Stock at start: Raw materials [N57, 000]; Work-in-progress [42, 000]; Finished goods [71, 000 ]",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 265,
+      "question": "The process of entering transaction from one book to another is",
+      "option": {
+        "a": "reading.",
+        "b": "posting.",
+        "c": "numbering",
+        "d": "listing"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 306,
+      "question": "Purchase invoice is first entered in the",
+      "option": {
+        "a": "purchases account",
+        "b": "cash book",
+        "c": "sales journal",
+        "d": "purchase journal"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 395,
+      "question": "The rule of accounting equation requires that account payable should be placed under",
+      "option": {
+        "a": "liabilities",
+        "b": "equities",
+        "c": "assets",
+        "d": "capital"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2004"
+    },
+    {
+      "id": 204,
+      "question": "Which of the following best describes the path of a transaction?",
+      "option": {
+        "a": "Source documents to Journal to Ledger",
+        "b": "Source documents to Ledger to Journal",
+        "c": "Journal to Ledger to source documents",
+        "d": "Journal to source documents to Ledger"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1997"
+    },
+    {
+      "id": 122,
+      "question": "Stock account is a type of",
+      "option": {
+        "a": "nominal account.",
+        "b": "personal account.",
+        "c": "real account.",
+        "d": "fixed assets account."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 172,
+      "question": "The market value of goods produced is",
+      "option": {
+        "a": "N30,500",
+        "b": "N3, 600",
+        "c": "N31,600",
+        "d": "N31,620"
+      },
+      "section": "Materials consumed  16,600;\tDirect cost 5,400; Factory rent 2,300; Factory  lighting 1,200 \tCost of production to be transferred at cost plus 20% mark-up. ",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 346,
+      "question": "book that contains individual accounts of suppliers is the",
+      "option": {
+        "a": "purchases ledger",
+        "b": "general ledger",
+        "c": "nominal ledger",
+        "d": "sales ledger"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 2,
+      "question": "A credit note from a supplier would first be entered in the ",
+      "option": {
+        "a": "purchase book  ",
+        "b": "sales book  ",
+        "c": "returns inward book  ",
+        "d": "returns outward"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 377,
+      "question": "When the purchase consideration exceeds the value of business, the difference is",
+      "option": {
+        "a": "profit",
+        "b": "discount",
+        "c": "goodwill",
+        "d": "reserve"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 89,
+      "question": "The current ratio is",
+      "option": {
+        "a": "1.87 : 1.",
+        "b": "1 : 1.87.",
+        "c": "1 : 2.",
+        "d": "2 : 1."
+      },
+      "section": "Use the following information to answer question. Net profit [ 60,000], Total Assets [ 520,000], Current liabilities [ 150,000], Current assets[ 280,000] ",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 102,
+      "question": "Which of the following accounts has a credit balance?",
+      "option": {
+        "a": "Returns Inwards Account",
+        "b": "Machinery Account",
+        "c": "Sales Account",
+        "d": "Cash Account"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 268,
+      "question": "Capital receipt is collected",
+      "option": {
+        "a": "on sales of motor vehicle.",
+        "b": "on sales of stock in trade.",
+        "c": "from trade debtor",
+        "d": "from trading activities."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 193,
+      "question": "A real account is the account of",
+      "option": {
+        "a": "expenses or losses",
+        "b": "gains or income",
+        "c": "physical tangible items",
+        "d": "fictitious items"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1997"
+    },
+    {
+      "id": 479,
+      "question": "Musa, a prepaid customer of XYZ and KLM, bought  N1500 recharge card from XYZ and  N2000 recharge card from KLM for business calls. The entry to record these transaction is debit",
+      "option": {
+        "a": "telephone  N 3,500, credit XYZ and KLM  N 3,500",
+        "b": "telephone N 3,500. credit cash  N 3,500",
+        "c": "sundries N 3,500, credit KLM  N 3,500",
+        "d": "sundries  N 3.500, credit telephone  N3,500"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 152,
+      "question": "Opening balance of Diksacompany was 12, 202, closing balance N15,300, total cash received during the period N40, 000. What was the amount of cash paid during the same period?",
+      "option": {
+        "a": "N36. 902",
+        "b": "N27,502",
+        "c": "N12,498",
+        "d": "N43.098"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 416,
+      "question": "In the balance sheet, the subscription in arrears will be",
+      "option": {
+        "a": "N 200",
+        "b": "N 300",
+        "c": "N 1,200",
+        "d": "N 1,300"
+      },
+      "section": "On January 1, 2000, a club’s assets and liabilities were as follows: Club house [ N8,000 ]; Subscription in arrears [ N300]; Cash [N1,000]; Wages owed [N100]. The club has 50 members and annual subscription is N 100 per member. Subscription received is N 4,000 and this includes 1999 arrears of  N 200.",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2004"
+    },
+    {
+      "id": 93,
+      "question": "Which of the following is a nominal account?",
+      "option": {
+        "a": "Machinery Account",
+        "b": "Drawings Account",
+        "c": "Debtors Account",
+        "d": "Wages Account"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 369,
+      "question": "A petty cash account has an imprest of D28,000. The account has a debit balance of D5.000. How much cash is needed to restore the imprest?",
+      "option": {
+        "a": "D33,000",
+        "b": "D28,000",
+        "c": "D23,000",
+        "d": "D5,000"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 161,
+      "question": "Which of the following is accounted for in receipts and payments account?",
+      "option": {
+        "a": "Accrued expenses on annual dances",
+        "b": "Subscriptions due but not yet received",
+        "c": "Interest on bank deposit",
+        "d": "Depreciation of the club house."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 374,
+      "question": "When shares are issued above their nominal value, the \texcess above the nominal value is",
+      "option": {
+        "a": "credited to Profit and Loss Account",
+        "b": "debited to Share Premium Account",
+        "c": "credited to Share Capital Account",
+        "d": "credited to share Premium Account"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 277,
+      "question": "Rent accrued in 2009 was D140. In 2010, D900 was paid while D160 was outstanding. Rent for 2010 was",
+      "option": {
+        "a": "D1,200.",
+        "b": "D1.060.",
+        "c": "D920.",
+        "d": "D880."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 432,
+      "question": "The budget statement presented to the legislature by the Chief Executive is called",
+      "option": {
+        "a": "an appropriation act",
+        "b": "a budget bill",
+        "c": "an appropriation bill",
+        "d": "a budget proposal"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2004"
+    },
+    {
+      "id": 39,
+      "question": "Subscription   received   in   respect of a future period is",
+      "option": {
+        "a": "Subscription deposit",
+        "b": "Subscription in advance",
+        "c": "Accrued subscription",
+        "d": "Subscription in arrears"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 240,
+      "question": "Cost of goods manufactured is",
+      "option": {
+        "a": "D138,000",
+        "b": "D131,800",
+        "c": "D130,500",
+        "d": "D123,000."
+      },
+      "section": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 97,
+      "question": "A business is treated as being separate from the owners. This statement is emphasized by",
+      "option": {
+        "a": "consistency concept.",
+        "b": "realization concept.",
+        "c": "going concern concept.",
+        "d": "business entity concept."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 74,
+      "question": "The    main    objective   of   the   financial statements is to ",
+      "option": {
+        "a": "provide a true and fair- view of the financial position of the business ",
+        "b": "help managers take correct decisions ",
+        "c": "show every transaction affects two items in the  balance sheet ",
+        "d": "help owners of a business to plan for the future."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 88,
+      "question": "Which of the following is not a book of original entry?",
+      "option": {
+        "a": "Cash Book",
+        "b": "Purchases Ledger",
+        "c": "Returns Outwards Journal",
+        "d": "General Journal"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 107,
+      "question": "In departmental accounts, administrative expenses are recorded in the",
+      "option": {
+        "a": "Trading Account.",
+        "b": "Balance Sheet.",
+        "c": "Profit and Loss Account.",
+        "d": "Profit and Loss Appropriation Account."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 329,
+      "question": "The accounting concept that states that a firm’s financial affairs must be separated from that of the owner’s private transactions is",
+      "option": {
+        "a": "business entity",
+        "b": "going concern",
+        "c": "consistency",
+        "d": "duality"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 500,
+      "question": "Receipts and payments account is a summary of the",
+      "option": {
+        "a": "budget",
+        "b": "trading account",
+        "c": "cash book",
+        "d": "profit and loss account"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 293,
+      "question": "Which of the following is not part of the Central Processing Unit of a computer?",
+      "option": {
+        "a": "Arithmetical and Logical unit",
+        "b": "Memory unit",
+        "c": "Input unit",
+        "d": "Control unit"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 286,
+      "question": "Capital expenditure for the year was",
+      "option": {
+        "a": "Le 545,000",
+        "b": "Le 490,000",
+        "c": "Le 450,000",
+        "d": "Le 300,000"
+      },
+      "section": "The Health Department of Zango Local Government incurred the following expenditure in 2010. Construction of hospital wards [ Le 300,000 ]; Purchase of hospital beds [ Le  40,000 ]; Salaries and wages  [ Le 80,000]; Purchase of drugs  [ Le 55,000]; Purchase of X-ray machine [ Le 150,000]",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 12,
+      "question": "The receipts and payments of a club is the same  as ",
+      "option": {
+        "a": "  Profit and   loss  account  ",
+        "b": "Trading Account ",
+        "c": "Cash book ",
+        "d": "control Account"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    }
+  ]
+}

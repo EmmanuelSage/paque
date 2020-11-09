@@ -1,0 +1,645 @@
+{
+  "subject": "commerce",
+  "data": [
+    {
+      "id": 739,
+      "question": "In an organization, civic consideration arises from",
+      "option": {
+        "a": "the profit derived from the environment",
+        "b": "its operations within the environment",
+        "c": "its social negative impacts on the community",
+        "d": "the fact that it is registered in that locality"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2000"
+    },
+    {
+      "id": 254,
+      "question": "One of the functions of the wholesalers is to ",
+      "option": {
+        "a": "forecast prices",
+        "b": "reduce prices of goods",
+        "c": "political unrest ",
+        "d": "analyse sales periodically "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 60,
+      "question": "The computer that functions by taking discrete numbers and  performing mathematical calculations is called ",
+      "option": {
+        "a": "mainframe ",
+        "b": "digital ",
+        "c": "hybride",
+        "d": "analogue."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2005"
+    },
+    {
+      "id": 608,
+      "question": "Which of the following is not a factor of production?",
+      "option": {
+        "a": "Capital",
+        "b": "land",
+        "c": "Labour",
+        "d": "Staffing"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1990"
+    },
+    {
+      "id": 742,
+      "question": "The pivot on which the wheel of commerce rotates is",
+      "option": {
+        "a": "tariff",
+        "b": "trade",
+        "c": "taxation",
+        "d": "price."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 686,
+      "question": "Which of the following is a legal tender?",
+      "option": {
+        "a": "Cheque.",
+        "b": "Traveller’scheque.",
+        "c": "Bank note",
+        "d": "Goldsmith receipt."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 680,
+      "question": "An ancillary to trade which promotes socio-cultural development all over the world is",
+      "option": {
+        "a": "transportation",
+        "b": "communication",
+        "c": "tourism.",
+        "d": "insurance."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 596,
+      "question": "The ability of money to be divided into smaller units for easy exchange of goods and services explains",
+      "option": {
+        "a": "divisibility",
+        "b": "durability",
+        "c": "recognisability",
+        "d": "stability"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 778,
+      "question": "Which of these companies offers after-sales services?",
+      "option": {
+        "a": "IV",
+        "b": "Ill",
+        "c": "II",
+        "d": "I"
+      },
+      "section": "Companies I, II, III and IV produce and sell electronic videos. Company I sells its videos for N= 14 000 each and offers advice on how to fix and operate them. Company II sells at N14 000 and its representatives go to install at no additional cost. Company III sells at N15 500 and offers credit sales at N15 500 per video while company IV sells at N= 15 000 each.",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 569,
+      "question": "The money paid to savings account holders by banks after a period of transaction is called",
+      "option": {
+        "a": "dividend",
+        "b": "gain",
+        "c": "interest",
+        "d": "premium"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 172,
+      "question": "An agreement by the insurer to compensate the insured for losses suffered is   ",
+      "option": {
+        "a": "policy",
+        "b": "surrender value   ",
+        "c": "caveat emptor ",
+        "d": "indemnity."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 592,
+      "question": "An instruction from a current account holder requesting to pay a named person or organization a. specified amount is \t\tcalled",
+      "option": {
+        "a": "bankers order",
+        "b": "certified cheque",
+        "c": "internal transfer",
+        "d": "money order"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 535,
+      "question": "A counter-offer in a contract is regarded as",
+      "option": {
+        "a": "an acceptance",
+        "b": "an invitation to treat",
+        "c": "a rejection",
+        "d": "a consideration"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 674,
+      "question": "Which of the following is a traditional medium of communication used to mark festivals?",
+      "option": {
+        "a": "Palm frond.",
+        "b": "Metal gong.",
+        "c": "Talking drum.",
+        "d": "Gun blast."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 89,
+      "question": "Invisible imports consists of",
+      "option": {
+        "a": " cement, shipping and consultancy services",
+        "b": " banking   drinks, insurance and technical services.   ",
+        "c": "",
+        "d": "tourism, banking, canned foods and cement."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2005"
+    },
+    {
+      "id": 311,
+      "question": "Selling goods in foreign countries at prices below their marginal cost is ",
+      "option": {
+        "a": "dumping ",
+        "b": "depreciation ",
+        "c": "devaluation ",
+        "d": "discounting "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 448,
+      "question": "The document which must be endorsed by the ambassador of a country of destination before shipment of goods is a ",
+      "option": {
+        "a": "consular invoice ",
+        "b": "certificate of origin ",
+        "c": "bill of lading ",
+        "d": "closed indent "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 726,
+      "question": "The most important advantage of personal selling is that it",
+      "option": {
+        "a": "allows sellers to perceive buyers’ needs",
+        "b": "allows sellers to sell their goods quickly",
+        "c": "takes place easily on the highways",
+        "d": "takes place without the permission of government."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2000"
+    },
+    {
+      "id": 472,
+      "question": "Management of a business involves he development of ideas for the ",
+      "option": {
+        "a": "distribution of goods and services that human wants",
+        "b": "transportation of goods and services that goods and services that human wants ",
+        "c": "transfer of little of ownership of goods and services to individuals.",
+        "d": "production of goods and services that satisfy human needs."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 639,
+      "question": "Which of the following is a type of marine insurance?",
+      "option": {
+        "a": "Endowment",
+        "b": "Freight",
+        "c": "Accident",
+        "d": "Fidelity"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1990"
+    },
+    {
+      "id": 750,
+      "question": "Entrusting the management of a company to the courts to enable the settlement of the company’s obligations is an indication of",
+      "option": {
+        "a": "distress",
+        "b": "closure",
+        "c": "bankruptcy",
+        "d": "liquidation."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 671,
+      "question": "When expenses on trading are deducted, the result is the",
+      "option": {
+        "a": "rate of turn over",
+        "b": "net profit",
+        "c": "gross profit",
+        "d": "cost of goods sold."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 325,
+      "question": "The instrument used in the capital market is ",
+      "option": {
+        "a": "treasury bill ",
+        "b": "bill of exchange ",
+        "c": "stock ",
+        "d": "debenture "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 413,
+      "question": "The type of letters that are delivered through the normal mail or by airmail express service is referred to as ",
+      "option": {
+        "a": "Inland letters ",
+        "b": "registered letters",
+        "c": "airmail letters",
+        "d": "express letters"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 851,
+      "question": "A firm that adapts itself to delivering the desired satisfaction more effectively and efficiently than its competitors is said to be practicing",
+      "option": {
+        "a": "price concept",
+        "b": "distribution concept",
+        "c": "product concept",
+        "d": "marketing concept"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2003"
+    },
+    {
+      "id": 661,
+      "question": "Avast is an example of",
+      "option": {
+        "a": "a web browser",
+        "b": "a search engine",
+        "c": "an antivirus",
+        "d": "a spread sheet"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 25,
+      "question": "What is the role of the capital market in the privatization exercise in Nigeria?    ",
+      "option": {
+        "a": "Selling the shares and stocks of the companies to be  privatized ",
+        "b": "Encouraging private companies to  participate in the exercise ",
+        "c": "Negotiating with individuals who want to buy public companies",
+        "d": "Advertising for government"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2004"
+    },
+    {
+      "id": 489,
+      "question": "Which of the following can be defined as trade and aids to trade?",
+      "option": {
+        "a": "Advertising",
+        "b": "Commerce",
+        "c": "Wholesaling",
+        "d": "Retailing"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 221,
+      "question": "A document sent by a seller to inform a buyer about the prices of goods is the ",
+      "option": {
+        "a": "catalogue ",
+        "b": "price list",
+        "c": "credit note",
+        "d": "proforma invoice "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 543,
+      "question": "The final link in the chain of distribution is the",
+      "option": {
+        "a": "agent",
+        "b": "consumer",
+        "c": "manufacturer",
+        "d": "retailer"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 28,
+      "question": "A group of assets which a business acquires with the intention of reselling them are referred to as",
+      "option": {
+        "a": "  current assets    ",
+        "b": "investment assets",
+        "c": "fixed assets    ",
+        "d": "intangible assets"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2004"
+    },
+    {
+      "id": 65,
+      "question": "The best means of sending unwritten messages simultaneously   to   many   branches   of  an organization within a country is the",
+      "option": {
+        "a": "television",
+        "b": " telephone   ",
+        "c": "telegraph   ",
+        "d": "radio."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2005"
+    },
+    {
+      "id": 484,
+      "question": "A computer accessory through which information can be retrieved is the ",
+      "option": {
+        "a": "hard disk ",
+        "b": "input  device ",
+        "c": "control unit ",
+        "d": "floppy disk "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 391,
+      "question": "A business organization is said to be socially responsible when it ",
+      "option": {
+        "a": "gets involve in issues relating to the society ",
+        "b": "rewards its staff for long-term service",
+        "c": "offers discounts to customers",
+        "d": "invites the public to its annual general  meetings."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 882,
+      "question": "A source of short-term finance to companies is",
+      "option": {
+        "a": "share capital",
+        "b": "debentures",
+        "c": "retained earnings",
+        "d": "corporate tax"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2003"
+    },
+    {
+      "id": 430,
+      "question": "An organization which focuses on consumer satisfaction is practicing ",
+      "option": {
+        "a": "consumerism ",
+        "b": "market segmentation ",
+        "c": "selling concept ",
+        "d": "marketing concept "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 357,
+      "question": "The document which can be exchanged for a bill of lading is ",
+      "option": {
+        "a": "freight note ",
+        "b": "mate receipt ",
+        "c": "export invoice ",
+        "d": "ship report"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 401,
+      "question": "A document which serves as an order with details of goods required by an intending purchaser is   ",
+      "option": {
+        "a": "a freight note ",
+        "b": "an indent ",
+        "c": "a bill of lading ",
+        "d": "a waybill"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 455,
+      "question": "The difference between indemnity insurance and non-indemnity insurance is that the latter provides ",
+      "option": {
+        "a": "cover for exporters against risks ",
+        "b": "cover for importers against risks ",
+        "c": "full payment to the insured ",
+        "d": "consolation payment to the insured "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 274,
+      "question": "The type of partnership in which all partners are jointly liable in bearing risk is ",
+      "option": {
+        "a": "limited partnership ",
+        "b": "partnership-at will",
+        "c": "ordinary partnership ",
+        "d": "industrial partnership "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    }
+  ]
+}

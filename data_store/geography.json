@@ -1,0 +1,645 @@
+{
+  "subject": "geography",
+  "data": [
+    {
+      "id": 106,
+      "question": "The world driest desert is  ",
+      "option": {
+        "a": "Atacama  ",
+        "b": "Sahara  ",
+        "c": "Kalahari  ",
+        "d": "California "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 189,
+      "question": "Temperature is a measure of: ",
+      "option": {
+        "a": "The average hotness",
+        "b": "The average coolness",
+        "c": "The average heat. ",
+        "d": "The average emission."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 18,
+      "question": "The doldrums refer to  ",
+      "option": {
+        "a": "land areas bordering the confluence of the blue and white Nile  ",
+        "b": "areas intense weather activities around the Mediterranean  ",
+        "c": "areas of South Atlantic where cold and warm currents meet  ",
+        "d": "area within a few degrees north and south of the equator."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 19,
+      "question": "Nigeria Sat I is designed by primarily to  ",
+      "option": {
+        "a": "help GSM provider in achieving a wide national coverage  ",
+        "b": "strengthen rapid response by Nigeria’s Armed Forces  ",
+        "c": "help in the 2006 Census  ",
+        "d": "provide information about various regions of the earth"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 132,
+      "question": "Which of the following statements is not true for lines of latitudes?",
+      "option": {
+        "a": "they range from 00 to 1800 North and South ",
+        "b": "they range from 00 to 900 North and South ",
+        "c": "They vary in D. they form parallel circles",
+        "d": "only one line is a great circle."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 119,
+      "question": "Desert soils are usually deficient in ",
+      "option": {
+        "a": "fertility  ",
+        "b": "humus content ",
+        "c": "horizon ",
+        "d": "light grey colour   "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 207,
+      "question": "Nigeria lies between",
+      "option": {
+        "a": "Latitudes 4° and 13°N and longitudes 2° and 15°E. ",
+        "b": "Latitudes 5° and 14°N and longitudes 4° and 15°E. ",
+        "c": "Latitudes 4° and 14°N and longitudes 2° and 15°E. ",
+        "d": "Latitudes 2° and 15°N and longitudes 4° and 14°E. "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 20,
+      "question": "The major sedimentary minerals found in Nigeria include:  ",
+      "option": {
+        "a": "tin, columbite and gold ",
+        "b": "tin, coal and salt  ",
+        "c": "limestone, columbite and diamond  ",
+        "d": "limestone, petroleum and coal"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 124,
+      "question": "A degree of latitudinal distance is approximately  ",
+      "option": {
+        "a": "111km  ",
+        "b": "221KM ",
+        "c": " 121km  ",
+        "d": "212km  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 90,
+      "question": "Which of the following is not the Karst features? ",
+      "option": {
+        "a": "Poljes  ",
+        "b": "Uvala  ",
+        "c": "Kopjes  ",
+        "d": "Dolines "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 29,
+      "question": "Most of the industries located in rural areas are  ",
+      "option": {
+        "a": "low energy consumers  ",
+        "b": "high energy consumers  ",
+        "c": "raw materials oriented  ",
+        "d": "transport oriented "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following statements is not true for lines of latitude?  ",
+      "option": {
+        "a": "they form parallel circles   ",
+        "b": "they range from 00 to 1800 N and S  ",
+        "c": "only one line is also a Great Circle ",
+        "d": "They form parallel circles"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is not correct with regards to the solar system?  ",
+      "option": {
+        "a": "The planets all orbit round the sun  ",
+        "b": "The sun is only a source of the energy needed on the planets  ",
+        "c": "The earth as well as other planets rotate round the sun  ",
+        "d": "all the planets have definite orbits around the sun"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 178,
+      "question": "Which of the following continents has the largest area with a tropical type of climate?",
+      "option": {
+        "a": "Asia   ",
+        "b": "South America",
+        "c": "North America  ",
+        "d": "Africa"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 152,
+      "question": "Given an environmental lapse tate of 0.650C per 100 metres, a place with sea level temperature of 400 and 2500 metre above the sea level will approximately have a temperature of  ",
+      "option": {
+        "a": "31.250C  ",
+        "b": "23.750C  ",
+        "c": "32.50C  ",
+        "d": "28.250C "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 154,
+      "question": "Which of the following landforms result from wind deposition? ",
+      "option": {
+        "a": "Playa  ",
+        "b": "Barchan  ",
+        "c": "Bajada  ",
+        "d": "Fan"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 146,
+      "question": "The World’s richest fishing grounds are found  ",
+      "option": {
+        "a": "On the continental shelves  ",
+        "b": "In oceanic deeps ",
+        "c": "In big and fast-flowing river  ",
+        "d": "In river estuaries "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 127,
+      "question": "The Northern Hemisphere’s Spring Equinox is during the month of",
+      "option": {
+        "a": "February ",
+        "b": "march ",
+        "c": "April   ",
+        "d": "May  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 170,
+      "question": "The surface of discontinuity between the earth’s crust and the mantle is know as",
+      "option": {
+        "a": "Lithosphere   ",
+        "b": "Barysphere",
+        "c": "Mohocivic Discontinuity",
+        "d": "Gutenburg discontinuity"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 21,
+      "question": "The cloud which are white globular masses, forming ripples in the sky is called  ",
+      "option": {
+        "a": "Cirrus  ",
+        "b": "Cirrocumulus  ",
+        "c": "altocumulus  ",
+        "d": "altostratus "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 83,
+      "question": "Blantyre, Rio Janeiro, New York and Lagos are similar in that they all serves as their countries ",
+      "option": {
+        "a": "major seaport  ",
+        "b": "political headquarter ",
+        "c": "commercial centres ",
+        "d": "cultural centres"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 197,
+      "question": "The capital of Niger state in Nigeria is: ",
+      "option": {
+        "a": "Gusau",
+        "b": "Yola",
+        "c": "Makurdi",
+        "d": "Minna"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 213,
+      "question": "Casablanca is a",
+      "option": {
+        "a": "North African City ",
+        "b": "West African City ",
+        "c": "South African City ",
+        "d": "Central African City "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 173,
+      "question": "Drought-tolerant plants are known as  ",
+      "option": {
+        "a": "Epiphytes  ",
+        "b": " Hydrophytes",
+        "c": "Drouphytes",
+        "d": "Xerophytes"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 236,
+      "question": "An anemometer is used to measure",
+      "option": {
+        "a": "wind vane",
+        "b": "wind direction",
+        "c": "wind speed",
+        "d": "wind pressure"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 139,
+      "question": "A front in which warm air is overtaken and lifted off the ground by cold air in a depression is known as  ",
+      "option": {
+        "a": "Cold front  ",
+        "b": "Warm front  ",
+        "c": "Mixed front  ",
+        "d": "Occluded"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 164,
+      "question": "The main work of a river in its torrent stage is  ",
+      "option": {
+        "a": "Widening its valley",
+        "b": "Down cutting",
+        "c": "Deposition  ",
+        "d": "Bifurcation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 149,
+      "question": "Which of the following is a not characteristic of the International Date Line? ",
+      "option": {
+        "a": "The Line is approximately along the 1800 meridian  ",
+        "b": "The line has a zigzag shape  ",
+        "c": "Local time is the same on either side of the line  ",
+        "d": "A traveler gains a day when crossing the line from the west to the east "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 136,
+      "question": "Which of the following landforms is the results of  river rejuvenated?  ",
+      "option": {
+        "a": "Ox-box lake ",
+        "b": "flood plain ",
+        "c": "terrace  ",
+        "d": "alluvial fan  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 15,
+      "question": "If a map has a scale of 1:50,000 and a cocoa plantation is represented on the map by a rectangle 4cm by 3cm, what is the area of the plantation?  ",
+      "option": {
+        "a": "3 sq. km  ",
+        "b": "30 sq. km  ",
+        "c": "12 sq. km  ",
+        "d": "20 sq. km"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 193,
+      "question": "Topographic maps are: ",
+      "option": {
+        "a": "Representations of features on the Earth's surface",
+        "b": "Features on the Earth's surface. ",
+        "c": "Detailed and accurate graphic representations of features on the Earth's surface ",
+        "d": "Geographic coordinate grid on the Earth's surface. "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 9,
+      "question": "Which  of   these  soil  groups  is  considered   the  most  productive?   ",
+      "option": {
+        "a": "Chernozems   ",
+        "b": "Latosols  ",
+        "c": "Podozols   ",
+        "d": "Sierozems"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 165,
+      "question": "Which of the locations in Nigeria has the highest mean annual rainfall total ?  ",
+      "option": {
+        "a": "Benin City  ",
+        "b": "Port-Harcourt  ",
+        "c": "C.Calabar   ",
+        "d": "Ondo"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 128,
+      "question": "Noonday sun is vertically overhead along the Tropic of Cancer during the month of  ",
+      "option": {
+        "a": "June  ",
+        "b": "July  ",
+        "c": "August  ",
+        "d": "September "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 157,
+      "question": "The difference in the readings on the dry and wet bulb thermometers used to determine  ",
+      "option": {
+        "a": "Relative humidity  ",
+        "b": "Temperature range  ",
+        "c": "Evaporation  ",
+        "d": "Transpiration "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 174,
+      "question": "The major disadvantage of the River Nile as a trade route is that  ",
+      "option": {
+        "a": "it is too long   ",
+        "b": "it is too shallow   ",
+        "c": "it flows during the wet season only   ",
+        "d": "it has several cataracts"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 141,
+      "question": "Environmental lapse rate is  ",
+      "option": {
+        "a": "The rate of temperature changes of an air parcel undergoing vertical displacement  ",
+        "b": "The rate of temperature decrease of an air parcel undergoing horizontal displacement  ",
+        "c": "The actual rate decrease of temperature with increase in altitude at a given place at a given moment  ",
+        "d": "The rate of horizontal temperature gradient of an air parcel"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 232,
+      "question": "The north east and south west trade winds meet along a plane surface where they continuously rub ",
+      "option": {
+        "a": "Abnormal front  ",
+        "b": "Leeward front  ",
+        "c": "Intertropical front ",
+        "d": "Windward front  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 198,
+      "question": "A valley is a:   ",
+      "option": {
+        "a": "Highland between hills",
+        "b": "Lowland between hills",
+        "c": "Rock between hills",
+        "d": "Highland between trees. "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 60,
+      "question": "Which one of the following seas has highest degree of salinity in the world?  ",
+      "option": {
+        "a": "Caspian sea  ",
+        "b": "Mediterranean sea  ",
+        "c": "Dead Sea  ",
+        "d": "Red sea"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    }
+  ]
+}

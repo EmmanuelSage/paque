@@ -1,0 +1,645 @@
+{
+  "subject": "chemistry",
+  "data": [
+    {
+      "id": 40,
+      "question": "A burning candle produces water and",
+      "option": {
+        "a": "Carbon(II)oxide",
+        "b": "Carbon(IV) oxide",
+        "c": "Oxygen",
+        "d": "Hydrogen"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 284,
+      "question": "In which of the following is the entropy change positive",
+      "option": {
+        "a": "Reaction between an acid and a base",
+        "b": "Addition of concentrated acid to water",
+        "c": "Dissolution of sodium metal in water",
+        "d": "Thermal dissociation of ammonium chloride"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 276,
+      "question": "The acid that is used to remove rust is",
+      "option": {
+        "a": "Hydrochloric",
+        "b": "Trioxonitrate (V)",
+        "c": "Tetraoxosulphate (VI)",
+        "d": "Boric"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 38,
+      "question": "A characteristic reaction of the compounds with the general formula CnH2n is",
+      "option": {
+        "a": "Esterification",
+        "b": "Polymerization",
+        "c": "Decarboxylation",
+        "d": "Substitution"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 233,
+      "question": "A difference between chemical and physical change is that in a chemical change",
+      "option": {
+        "a": "Heat is supplied",
+        "b": " A new substance is formed",
+        "c": "Oxygen is consumed",
+        "d": "A reversible process occurs"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 283,
+      "question": "What quantity of aluminum is deposited when a current of 10A is passed through a solution of an aluminum salt for 1930s  {AI = 27, F = 96500 C mol-}",
+      "option": {
+        "a": "1.8g",
+        "b": "5.4g",
+        "c": "14.2g",
+        "d": "0.2g"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 178,
+      "question": "The most suitable metal that can be used as a lightening  conductor is",
+      "option": {
+        "a": "Aluminium",
+        "b": "Iron",
+        "c": "Copper",
+        "d": "Silver"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2005"
+    },
+    {
+      "id": 282,
+      "question": "Iron can be protected from corrosion by coating the surface with",
+      "option": {
+        "a": "Silver",
+        "b": "Copper",
+        "c": "Zinc",
+        "d": "Gold"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 50,
+      "question": "Steam changes the colour of anhydrous cobalt(II) chloride from",
+      "option": {
+        "a": "White to red",
+        "b": "Blue to white",
+        "c": "White to green",
+        "d": "Blue to pink"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2002"
+    },
+    {
+      "id": 281,
+      "question": "The IUPAC nomencalatyre of the compound LiAIH4 is",
+      "option": {
+        "a": "Aluminium tetrahydrido lithium",
+        "b": "Tetrahydrido lithium aluminate (III)",
+        "c": "Lithium aluminium hydride",
+        "d": "Lithium tetrahydridoaluminate (III)"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 274,
+      "question": "Coffee stains can best be removed by",
+      "option": {
+        "a": "Turpentine",
+        "b": "A solution of borax in water",
+        "c": "Ammonia solution",
+        "d": "Kerosene"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 229,
+      "question": "[Molar volume of a gas at s.t.p + 22.4dm3} Nuclear fission involves the splitting of a heavy element into two nuclei of",
+      "option": {
+        "a": "Equal masses with a release of energy",
+        "b": "Nearly equal masses with a release of energy and radiation",
+        "c": "Equal masses with a release of energy and radiation",
+        "d": "Unequal masses without any release of energy"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 87,
+      "question": "A consequence of global warming is",
+      "option": {
+        "a": "Air pollution",
+        "b": "Water pollution",
+        "c": "Increased humidity",
+        "d": "Flooding"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2003"
+    },
+    {
+      "id": 81,
+      "question": "The noble gases owe their inactivity to",
+      "option": {
+        "a": "Octet configuration",
+        "b": "Cyclic shape",
+        "c": "Hexagonal shape",
+        "d": "Obtuse configuration"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2003"
+    },
+    {
+      "id": 80,
+      "question": "Neutral atoms of neon with atomic number 10 have the same number of electrons as",
+      "option": {
+        "a": "O2+",
+        "b": "Ca2+",
+        "c": "K+",
+        "d": "Mg2+"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2003"
+    },
+    {
+      "id": 214,
+      "question": "2H2 + O2  → 2H2O  ΔH = -571Kj  In equation above, how much heat will be liberated if 12.0g of hydrogen is burnt in excess oxygen?",
+      "option": {
+        "a": "-1713kJ",
+        "b": "+1142kJ",
+        "c": "-571kJ",
+        "d": "-1142kJ"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2005"
+    },
+    {
+      "id": 153,
+      "question": "Which steam is passed over red-hot carbon, the substances produced are",
+      "option": {
+        "a": "Hydrogen and trioxocarbonate(IV) acid",
+        "b": "Hydrogen, oxygen and carbon(IV) oxide",
+        "c": "Hydrogen and carbon (II) oxide",
+        "d": "Hydrogen and carbon (IV) oxide"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2004"
+    },
+    {
+      "id": 102,
+      "question": "When sugar is dissolved in tea, the reaction is always accompanied by",
+      "option": {
+        "a": "Positive entropy change",
+        "b": "Negative entropy change",
+        "c": "No entropy change",
+        "d": "A minimum entropy change"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2003"
+    },
+    {
+      "id": 48,
+      "question": "A little quantity of Trichloromethane (b.pt.600C) was added to a large quantity of ethanol (b.pt.780C). the most probable boiling point of the resultant mixture is from",
+      "option": {
+        "a": "699C – 700C",
+        "b": "820C – 840C",
+        "c": "600C – 780C",
+        "d": "700C – 744C"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2002"
+    },
+    {
+      "id": 237,
+      "question": "Which of the following has an isomer",
+      "option": {
+        "a": "C4H10",
+        "b": "C6H6",
+        "c": "C2H4",
+        "d": "C2H6"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 148,
+      "question": "Which of the following hydrogen halides has the highest entropy value",
+      "option": {
+        "a": "HF",
+        "b": "HCl",
+        "c": "HBr",
+        "d": "Hl"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2004"
+    },
+    {
+      "id": 297,
+      "question": "Benzene reacts with hydrogen in the presence of nickel catalyst at 1800C to give",
+      "option": {
+        "a": "Toluene",
+        "b": "Cyclopentane",
+        "c": "Cyclohexane",
+        "d": "Xylene"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 256,
+      "question": "Which of the following typically represents a photochemical reaction",
+      "option": {
+        "a": "Conversion of dinitrogen (IV) oxide to nitrogen(IV) oxide",
+        "b": "Conversion of silver halides to grey metallic silver",
+        "c": "Decomposition of calcium hydroxide to its oxide",
+        "d": "Formation of water from hydrogen and oxygen molecules"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 17,
+      "question": "In which of the following reactuions does reduction take place",
+      "option": {
+        "a": "Fe2+ - e-   Fe3+",
+        "b": "2O2-  → O2 + 4e-",
+        "c": "Cr - 2e-  → Cr2+",
+        "d": "2H+  +  2e-   →H2"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 157,
+      "question": "Alloys are best prepared by",
+      "option": {
+        "a": "Electroplating",
+        "b": "Arc-welding",
+        "c": "Reducing a mixture of their metallic oxides",
+        "d": "Cooling a molten mixture of the metals"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2004"
+    },
+    {
+      "id": 84,
+      "question": "A gas exerts pressure on its container because",
+      "option": {
+        "a": "Some of its molecules are moving faster than others",
+        "b": "Of the collision of the molecules with each other",
+        "c": "Of the mass of the molecules of gas",
+        "d": "The molecules of a gas collide with the walls of the container"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2003"
+    },
+    {
+      "id": 82,
+      "question": "According to the kinetic theory, an increase in temperature causes the kinetic energy of particles to",
+      "option": {
+        "a": "Decrease",
+        "b": "Increase",
+        "c": "Remain constant",
+        "d": "Be zero"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2003"
+    },
+    {
+      "id": 53,
+      "question": "The property which makes alcohol soluble in water is the",
+      "option": {
+        "a": "Hydrogen bonding",
+        "b": "Covalent nature",
+        "c": "Ionic character",
+        "d": "Boiling point"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2002"
+    },
+    {
+      "id": 59,
+      "question": "25cm3 of a 0.2mol dm-3 solution of Na2CO3 requires 20cm3 of  solution of HCl for neutralization. The concentration of the solution is",
+      "option": {
+        "a": "0.6 mol dm-3",
+        "b": "0.5 mol dm-3",
+        "c": "0.4 mol dm-3",
+        "d": "0.2 mol dm-3"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2002"
+    },
+    {
+      "id": 166,
+      "question": "The reaction above is",
+      "option": {
+        "a": "Carboxylation",
+        "b": "Decarboxylation",
+        "c": "Acidification",
+        "d": "Esterification"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2004"
+    },
+    {
+      "id": 156,
+      "question": "Aluminium hydroxide is used in the dyeing industry as a",
+      "option": {
+        "a": "Salt",
+        "b": "Dye",
+        "c": "Mordant",
+        "d": "Dispersant"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2004"
+    },
+    {
+      "id": 127,
+      "question": "According to Charles  law, the volume of a gas becomes zero at",
+      "option": {
+        "a": "00C",
+        "b": "-1000C",
+        "c": "-2730C",
+        "d": "-3730C"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2004"
+    },
+    {
+      "id": 72,
+      "question": "The intermediate product formed when ethanol is progressively oxidized to ethanoic acid with potassium heptaoxodichromate(VI) is",
+      "option": {
+        "a": "Ethanol",
+        "b": "Methanol",
+        "c": "Butanal",
+        "d": "Propanal"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2002"
+    },
+    {
+      "id": 135,
+      "question": "Hardness of water is caused by the presence of the ions of",
+      "option": {
+        "a": "Magnesium and silver",
+        "b": "Calcium and magnesium",
+        "c": "Sodium and potassium",
+        "d": "Calcium and sodium"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2004"
+    },
+    {
+      "id": 113,
+      "question": "Carbohydrates are compounds containing carbon, hydrogen and oxygen in the ratio",
+      "option": {
+        "a": "3:01:01",
+        "b": "2:01:01",
+        "c": "1:02:01",
+        "d": "1:01:01"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2003"
+    },
+    {
+      "id": 106,
+      "question": "Hydrogen can be displaced form a hot alkaline solution by",
+      "option": {
+        "a": "Fe",
+        "b": "Cu",
+        "c": "Ca",
+        "d": "Sn"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2003"
+    },
+    {
+      "id": 144,
+      "question": "Which of the following acts as both a reducing and an oxidizing agent",
+      "option": {
+        "a": "H2",
+        "b": "SO2",
+        "c": "H2S",
+        "d": "CO2"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2004"
+    },
+    {
+      "id": 28,
+      "question": "In which of the following reactions has the oxidation number of nitrogen increased",
+      "option": {
+        "a": "2NO(g)  +  Br2(l)  → 2NOBr(l)",
+        "b": "2NO2(g)  +  O2(g)   → 2NO2(g)",
+        "c": "FeSO4(aq)  +  NO(g) → Fe(NO)SO4(s)",
+        "d": "2NO(g)  +  CI2(g) →  2NOCI(l)"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 230,
+      "question": "2C2H2(g)  +  5O2(g)     4CO2(g)  +  2H2O(g) In the reaction, the mass of carbon (IV) oxide produced on burning 78g of ethyne is [C = 12, O = 16, H = 1]",
+      "option": {
+        "a": "39",
+        "b": "352g",
+        "c": "264g",
+        "d": "156g"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 119,
+      "question": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula  [H = 1, C = 12, O = 16]",
+      "option": {
+        "a": "CH2O",
+        "b": "C3H6O3",
+        "c": "C6H12O6",
+        "d": "C6H6O3"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2003"
+    }
+  ]
+}

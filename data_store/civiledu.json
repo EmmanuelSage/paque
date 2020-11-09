@@ -1,0 +1,645 @@
+{
+  "subject": "civiledu",
+  "data": [
+    {
+      "id": 298,
+      "question": "Which of the following is not a preventive measure against the acquisition of the Ebola disease...........",
+      "option": {
+        "a": "Do not touch an infected person or their body fluids including blood, vomit, urine, saliva",
+        "b": "Wash your hands regularly with soap and water and apply sanitizers frequently",
+        "c": "Beware of hand shake and go for medical checkup as soon as possible when sick",
+        "d": "Do not bath with medicated soap"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 221,
+      "question": "An instrument for exercise of power for controlling, administering and managing the affairs of people based on laws is the",
+      "option": {
+        "a": "Civil service",
+        "b": "Executive",
+        "c": "Government",
+        "d": "State"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 141,
+      "question": "The traffic light has how many colours",
+      "option": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "2"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 419,
+      "question": "The above quotation summarizes the",
+      "option": {
+        "a": "Universal Declaration of Human Rights.",
+        "b": "African Charter on Human Rights.",
+        "c": "Geneva Conventions and Protocols.",
+        "d": "United Nations Organization Charter."
+      },
+      "section": "“All human beings are born free and equal in dignity and rights. They are endowed with reason and \t\tconscience and should act towards one another in a spirit of brotherhood”.",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 114,
+      "question": "Cocaine, morphine and heroin are example of",
+      "option": {
+        "a": "tobacco",
+        "b": "steroids",
+        "c": "narcotics",
+        "d": "inhalants"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 333,
+      "question": "At the end of the service year each corper will be given ......... as an evidence that he or she has successfully completed the service",
+      "option": {
+        "a": "NYSC passport",
+        "b": "National ID Card",
+        "c": "NYSC discharge certificate",
+        "d": "Letter of appreciation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 405,
+      "question": "A major way of promoting responsible parenthood is through",
+      "option": {
+        "a": "sex education",
+        "b": "sound education",
+        "c": "population control measures",
+        "d": "tax reduction measures"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 303,
+      "question": "As at 2014 Nigeria has .......... states",
+      "option": {
+        "a": "47",
+        "b": "37",
+        "c": "60",
+        "d": "57"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 73,
+      "question": "A political party’s programme is known as its",
+      "option": {
+        "a": "constitution.",
+        "b": "document.",
+        "c": "functions.",
+        "d": "manifesto."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 311,
+      "question": "Another word for abduction is ...........................",
+      "option": {
+        "a": "to steal",
+        "b": "to adopt",
+        "c": "to kidnap",
+        "d": "to kill"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 132,
+      "question": "The following are the reasons why people do not participate in polities except",
+      "option": {
+        "a": "illiteracy",
+        "b": "lack of justice",
+        "c": "multi-party system",
+        "d": "religion"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 215,
+      "question": "Which of the following can cause Human Trafficking in a country",
+      "option": {
+        "a": "poverty, youth unemployment and greed",
+        "b": "Sound education and proper counselling",
+        "c": "Social and economic contentment",
+        "d": "B and C above"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 169,
+      "question": "The term V. I. O. mean",
+      "option": {
+        "a": "Vehicle inspection officer",
+        "b": "vehicle implementation officer",
+        "c": "vehicle induce operation",
+        "d": "vehicle induction officer"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 186,
+      "question": "The lack of interest in politics by many citizens in a country is called",
+      "option": {
+        "a": "civic agitation",
+        "b": "mass apathy",
+        "c": "mass protest",
+        "d": "political unrest"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 210,
+      "question": "For which of these can someone be arrested while driving on a high way",
+      "option": {
+        "a": "driving and laughing",
+        "b": "driving and singing",
+        "c": "driving and eating or receiving phone call",
+        "d": "driving and crying"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 361,
+      "question": "Drug abuse can be prevented by",
+      "option": {
+        "a": "fighting drug addicts",
+        "b": "poverty reduction",
+        "c": "reducing drugs in circulation",
+        "d": "legal sanction"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 331,
+      "question": "Those eligible to partake in the scheme are those",
+      "option": {
+        "a": "Those seeking for admission into the higher institutions",
+        "b": "Who have successfully completed their studies from higher institution .eg. college of education, \t\t     polytechnic & university",
+        "c": "Who are looking for something to keep them busy",
+        "d": "Who are from poor family background"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 203,
+      "question": "Popular participation can",
+      "option": {
+        "a": "promote political awareness and education",
+        "b": "Lead to political apathy",
+        "c": "lead to the election of wrong leaders",
+        "d": "to political instability"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 325,
+      "question": "A committee of PDP members is made up of 9 Hausas, 8 Igbo and 7 Yorubas. If the president wishes to choose just one person to be his special adviser, find the probability that the person chosen is neither Hausa nor Yoruba",
+      "option": {
+        "a": "7/24",
+        "b": "2/3",
+        "c": "3/8",
+        "d": "1/3"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 10,
+      "question": "Victims of human trafficking are usually compelled to engage in",
+      "option": {
+        "a": "lucrative employment",
+        "b": "visiting tourist sites",
+        "c": "part - time studies",
+        "d": "forced labour."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 362,
+      "question": "A major factor responsible for human trafficking is",
+      "option": {
+        "a": "hunger",
+        "b": "illiteracy",
+        "c": "greed",
+        "d": "joblessness"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 286,
+      "question": "The Ebola disease is usually acquired when a person comes in contact with",
+      "option": {
+        "a": "the blood or bodily fluids of an infested organism",
+        "b": "anybody whose name is Bola",
+        "c": "any animal",
+        "d": "snake fish"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 4,
+      "question": "Citizenship status is acquired through",
+      "option": {
+        "a": "birth, indigenization, colonization and referendum",
+        "b": "association, convention, naturalization and incorporation",
+        "c": "birth, naturalization, honorary and registration",
+        "d": "registration, inter-relationship, integration and declaration."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 7,
+      "question": "Cultism can be described to be",
+      "option": {
+        "a": "amiable",
+        "b": "attractive",
+        "c": "dangerous",
+        "d": "harmless."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 305,
+      "question": "A sense of right and wrong guiding a person’s action is known as",
+      "option": {
+        "a": "attitude",
+        "b": "conscience",
+        "c": "action",
+        "d": "manner"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 418,
+      "question": "A situation whereby someone is obliged to inform a superior about his actions and decisions for the purpose of control is",
+      "option": {
+        "a": "probity",
+        "b": "self-discipline",
+        "c": "accountability",
+        "d": "fair play"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 356,
+      "question": "Which of the following statements is not correct?",
+      "option": {
+        "a": "Valid driver’s license must be obtained before attempting to drive",
+        "b": "Flowing garment can be worn on a motorcycle or bicycle",
+        "c": "Headlights should be used during unfavourable weather",
+        "d": "Drivers must not engage in distractive activities while driving"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 278,
+      "question": "Which of the following is not the civic obligation of a citizen",
+      "option": {
+        "a": "payment of taxes",
+        "b": "freedom of conscience and speech",
+        "c": "voting during elections",
+        "d": "obedience to law"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 151,
+      "question": "Which of the following is used in gauging public opinion",
+      "option": {
+        "a": "Constitution",
+        "b": "Educational Institution",
+        "c": "Mass media",
+        "d": "Electoral college"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 390,
+      "question": "Based on the above diagram, the candidates would not have cheated if",
+      "option": {
+        "a": "they were well-spaced",
+        "b": "there was an invigilator",
+        "c": "they were hardworking",
+        "d": "there was nobody to copy from"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 77,
+      "question": "One advantage of Bi-cameral legislature is that it",
+      "option": {
+        "a": "guards against intra-party clashes.",
+        "b": "is the only system available.",
+        "c": "prevents arbitrary law making",
+        "d": "projects party manifestoes."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 56,
+      "question": "The most effective approach towards the elimination of sexually transmitted diseases is by",
+      "option": {
+        "a": "abstinence.",
+        "b": "Casual sex.",
+        "c": "use of condom.",
+        "d": "use of drugs"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 174,
+      "question": "One judicial function performed by the executive is",
+      "option": {
+        "a": "granting of amnesty",
+        "b": "implementing judicial order",
+        "c": "ensuring obedience to the law",
+        "d": "appointing judges"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 58,
+      "question": "One of the aims of citizenship education is to produce students with",
+      "option": {
+        "a": "creative skill.",
+        "b": "high sense of entrepreneurial skill.",
+        "c": "high sense of patriotism.",
+        "d": "manipulative skills."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 21,
+      "question": "What value did Imoh demonstrate.",
+      "option": {
+        "a": "Tolerance",
+        "b": "Confidence",
+        "c": "Fair play",
+        "d": "Honesty"
+      },
+      "section": "Imoh lived with her parents in Kakuri. They were good citizens who detested all forms of immoral acts. Both at home and in school, Imoh had been taught the virtues and values of a good citizen. However, while in a bus on her way home from school, the conductor forgot to ask for her fare. She knew that the right thing to do was to pay even when the conductor had forgotten to collect the fare. She also knew that there were other things she could do with the money if it was not paid, but she did what was expected by informing the conductor and paying the fare.",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 260,
+      "question": "The first known outbreak of Ebola was in ................",
+      "option": {
+        "a": "2014, in Sierra Leone",
+        "b": "1976, in a remote village near the Ebola River in Congo",
+        "c": "2014, in port Harcourt, Nigeria",
+        "d": "Enugu, during the Nigeria - Biafra war"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 180,
+      "question": "Which of the following is an advantage of local government",
+      "option": {
+        "a": "Agents for money based politics",
+        "b": "electoral commissions",
+        "c": "training grounds for political leaders",
+        "d": "agents of pressure group"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 85,
+      "question": "Nigeria is now hundred years since amalgamation which means she has celebrated — anniversary.",
+      "option": {
+        "a": "amalgamation.",
+        "b": "centenary.",
+        "c": "golden jubilee.",
+        "d": "independence."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 424,
+      "question": "The foreign policy objective of Nigeria as enshrined in the 1999 Constitution exclude the promotion of",
+      "option": {
+        "a": "national interest",
+        "b": "African integration",
+        "c": "support for donor agencies",
+        "d": "just world economic order"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 130,
+      "question": "One of the following is a social group",
+      "option": {
+        "a": "dangote group of companies",
+        "b": "rotary club",
+        "c": "Millan group",
+        "d": "human right Africa"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    }
+  ]
+}

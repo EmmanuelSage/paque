@@ -10,40 +10,52 @@ intents:
   - bot_challenge
   - inform
   - give_question
+  - select_answer
+  - start
+  - know_how_many_subjects
 
 entities:
   - subject
+  - selected_answer
 
 actions:
   - action_get_question
+  - action_determine_correct_answer
+  - action_return_list_of_subjects
 
 slots:
   subject:
     type: text
     influence_conversation: false
-  slot_question:
+  selected_answer:
+    type: text
+    influence_conversation: false
+  slot_question_answer:
     type: text
     influence_conversation: false
 
 responses:
   utter_greet:
-  - text: "Hey! I am Paque I would give you questions in any subject.\n which subject would you like"
+    - text: "Hey! I am Paque I would give you questions in many subject.\n which subject would you like"
 
   utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+    - text: "Here is something to cheer you up:"
+      image: "https://i.imgur.com/nGF1K8f.jpg"
 
   utter_did_that_help:
-  - text: "Did that help you?"
+    - text: "Did that help you?"
 
   utter_happy:
-  - text: "Great, carry on!"
+    - text: "Great, carry on!"
 
   utter_goodbye:
-  - text: "Bye thanks for asking for a {subject} question, \n by the way the slot ques slot is {slot_question}"
+    - text: "Thanks for asking for a {subject} question"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+    - text: "I am a bot, powered by Rasa."
+
+  utter_start_telegram:
+    - text: "Hello welcome to this learning bot on telegram, you could say hello to the bot"
 
 session_config:
   session_expiration_time: 60

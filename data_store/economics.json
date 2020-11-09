@@ -1,0 +1,645 @@
+{
+  "subject": "economics",
+  "data": [
+    {
+      "id": 15,
+      "question": "Which of the following is regarded as fixed cost? ",
+      "option": {
+        "a": "cost of raw materials ",
+        "b": "labour wages ",
+        "c": "rent land ",
+        "d": "cost of light.                                                                                                                                                                                                                   "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 554,
+      "question": "ln a capitalist system, goods are produced for those who",
+      "option": {
+        "a": "want them most but cannot pay for them",
+        "b": "can pay for them but do not want them",
+        "c": "want them and can also pay for them",
+        "d": "are dependent on the labour force"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 648,
+      "question": "The population of a country in a certain year was fifty million and the per capita income was $2050. What was the national income?",
+      "option": {
+        "a": "$ 750,000 million",
+        "b": "$100,250 million",
+        "c": "$ 102,500 million",
+        "d": "125,050 million"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2007"
+    },
+    {
+      "id": 146,
+      "question": "When the product of any one firm in an industry is not  perceived by consumers as a perfect substitute for the product of any other firm in the same industry, we have ",
+      "option": {
+        "a": "Perfect competition",
+        "b": "Monopoly  ",
+        "c": "Oligopolist ",
+        "d": "Monopolistic competition   "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 339,
+      "question": "In the long run, one of the characteristics of monopolistic competitive firms is that the",
+      "option": {
+        "a": "make  abnormal profits",
+        "b": "suffer losses",
+        "c": "make normal profits",
+        "d": "collude with each other"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 541,
+      "question": "The lender of last resort in the banking system is the",
+      "option": {
+        "a": "industrial bank",
+        "b": "mortgage bank",
+        "c": "commercial bank",
+        "d": "central bank"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 314,
+      "question": "A rise in government expenditure can lead to",
+      "option": {
+        "a": "higher inflation",
+        "b": "higher unemployment",
+        "c": "lower profits for industries",
+        "d": "lower importation of raw materials by industries"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 602,
+      "question": "The formula “index of export prices” / “Index of import prices”   x 100   is used to measure the",
+      "option": {
+        "a": "volume of trade between countries",
+        "b": "direction of international trade",
+        "c": "commodity terms of trade",
+        "d": "volume of imports"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 103,
+      "question": "The following are advantages of socialism except ",
+      "option": {
+        "a": "equitable distribution of resources",
+        "b": "absence of exploitation  ",
+        "c": "equitable distribution of income ",
+        "d": "promotion of high standard of living "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 311,
+      "question": "Deposits held in a commercial bank are part of",
+      "option": {
+        "a": "money supply",
+        "b": "transfer payments",
+        "c": "ordinary shares",
+        "d": "treasury bills"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 590,
+      "question": "The motive for holding money for investing in securities is \treferred to as",
+      "option": {
+        "a": "transactionary",
+        "b": "speculative",
+        "c": "accumulation",
+        "d": "deflationary"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 393,
+      "question": "A decrease in aggregate spending in an economy will ultimately lead to",
+      "option": {
+        "a": "Boom",
+        "b": "deflation",
+        "c": "inflation",
+        "d": "recession"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 510,
+      "question": "Economic activities are undertaken to solve the problem of",
+      "option": {
+        "a": "consumption",
+        "b": "opportunity cost",
+        "c": "production",
+        "d": "scarcity"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 615,
+      "question": "What must be added to variable cost to give total cost?",
+      "option": {
+        "a": "Average total cost",
+        "b": "Average variable cost",
+        "c": "Fixed cost",
+        "d": "Marginal cost"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2007"
+    },
+    {
+      "id": 583,
+      "question": "For a monopolist, the average revenue (AR) curve is  above",
+      "option": {
+        "a": "the total cost curve",
+        "b": "the same as the marginal cost curve",
+        "c": "above the marginal revenue curve",
+        "d": "the same at that of the perfect competitor."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 529,
+      "question": "lf elasticity of demand for a commodity is less than one, demand is",
+      "option": {
+        "a": "unitary elastic",
+        "b": "inelastic",
+        "c": "infinitely elastic",
+        "d": "zero elastic"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 605,
+      "question": "Which of the following is an objective of economic integration?",
+      "option": {
+        "a": "Harmonization of cultural practices",
+        "b": "Free movement of persons, goods and services",
+        "c": "Payment of high tariffs",
+        "d": "Dumping of goods in less developed countries"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 88,
+      "question": "If an increase in income induces a reduction in the demand for beans, beans can be referred to as: ",
+      "option": {
+        "a": "A normal good ",
+        "b": "An inferior good ",
+        "c": "A substitute ",
+        "d": "A dash "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 33,
+      "question": "The ‘term’ of trade’ means ",
+      "option": {
+        "a": "The trade agreement between two countries ",
+        "b": "The difference in the volumes of exports of two countries ",
+        "c": "The value of a unit of export in relation to the value of a unit of import ",
+        "d": "None of the above."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 64,
+      "question": "Which of the following is the most liquid asset to a commercial bank? ",
+      "option": {
+        "a": "cash ",
+        "b": "money at call ",
+        "c": "stock and shares ",
+        "d": "Treasury Bills."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 408,
+      "question": "The primary motive for an individual engaging in production is to",
+      "option": {
+        "a": "make profit",
+        "b": "redistribute wealth",
+        "c": "satisfy basic human wants",
+        "d": "put inputs into use"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 262,
+      "question": "The total stock of money available for use in an economy is",
+      "option": {
+        "a": "a function of money",
+        "b": "a characteristic of money",
+        "c": "the demand for money",
+        "d": "the supply of money"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2010"
+    },
+    {
+      "id": 538,
+      "question": "The term demand for money means",
+      "option": {
+        "a": "desire to borrow money from people",
+        "b": "desire of an individual to invest all his money in  projects",
+        "c": "willingness of people to hold money",
+        "d": "willingness of people to keep all their resources in  assets."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 436,
+      "question": "Price elasticity of supply measures the responsiveness of",
+      "option": {
+        "a": "quantity supplied to   changes in suppliers’ income",
+        "b": "changes in prices of other commodities",
+        "c": "a change in the prices of the commodity",
+        "d": "a change in the demand for the product"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 168,
+      "question": "If the production possibilities, curve were a straight down sloping line, this would suggest that: ",
+      "option": {
+        "a": "it is possible to produce  more of both products ",
+        "b": "resources are perfectly shift able between the production  of these two goods ",
+        "c": "both products are equally capable of satisfying consumer wants ",
+        "d": "the two products have identical price."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 456,
+      "question": "Which of the following is a direct tax?",
+      "option": {
+        "a": "Import duties",
+        "b": "Purchase tax",
+        "c": "Export duties",
+        "d": "Personal income tax"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 374,
+      "question": "If  the price of a commodity with elastic demand increases, the revenue accruing to the producer will",
+      "option": {
+        "a": "Double",
+        "b": "be constant",
+        "c": "increase",
+        "d": "decrease"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 521,
+      "question": "A factor that has slowed down the rate of industrial development in West Africa is",
+      "option": {
+        "a": "inadequate technology",
+        "b": "increasing rate of manpower production",
+        "c": "increased demand for local goods",
+        "d": "intervention of the government in business activities."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 653,
+      "question": "The practice of selling goods overseas and often below the cost of production is known as",
+      "option": {
+        "a": "retailing",
+        "b": "dumping",
+        "c": "internal trade",
+        "d": "advertising"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2007"
+    },
+    {
+      "id": 322,
+      "question": "A movement along the same demand curve is caused by the",
+      "option": {
+        "a": "price of the product",
+        "b": "price of other products",
+        "c": "income of the consumer",
+        "d": "taste of the consumer"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 118,
+      "question": "The following is the main difference between firm and industry  ",
+      "option": {
+        "a": "Industry is the group of firms producing related products  ",
+        "b": "Industry is the group of firms in the manufacturing sector  ",
+        "c": "Industry is the group of firms in different sectors of the economy  ",
+        "d": "Industry is the group of firms with a single pressure group"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 67,
+      "question": "Which of the following is the most important reason why wages differ among occupation? ",
+      "option": {
+        "a": "Length and cost of training ",
+        "b": "Supply of Labour ",
+        "c": "Attractiveness ",
+        "d": "Influence of trade Unions"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 32,
+      "question": "Disposable income equals ",
+      "option": {
+        "a": "Personal income less business profits ",
+        "b": "personal income less taxes and subsidies ",
+        "c": "personal income less taxes plus subsidies ",
+        "d": "National income plus transfer payments"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 574,
+      "question": "In the normal market situation, when the price of a commodity rises, the",
+      "option": {
+        "a": "demand for the commodity will rise",
+        "b": "demand for the commodity will fall",
+        "c": "supply of the commodity will be constant",
+        "d": "Supply of the commodity will fall."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 498,
+      "question": "Taxes levied on commodities are",
+      "option": {
+        "a": "direct taxes",
+        "b": "indirect taxes",
+        "c": "poll taxes",
+        "d": "investment taxes"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 371,
+      "question": "The mean is the best measure of central tendency because it",
+      "option": {
+        "a": "is not affected by extreme values in a data",
+        "b": "is a balancing point in an observation",
+        "c": "is a midpoint value in an array of data",
+        "d": "can be calculated from incomplete data"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 383,
+      "question": "In perfect competition, price is determined by the",
+      "option": {
+        "a": "Government",
+        "b": "buyers",
+        "c": "sellers",
+        "d": "market"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 5,
+      "question": "If the price of Pepsi decrease relative to the price of coke and 7-up the demand for ",
+      "option": {
+        "a": "coke will decrease ",
+        "b": "7-up will decrease ",
+        "c": "coke and 7-up will increase",
+        "d": "coke and 7-up will decrease."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 176,
+      "question": "The amount by which government expenditures exceed revenues during a particular year is the: ",
+      "option": {
+        "a": "public debt ",
+        "b": "budget deficit ",
+        "c": "full- employment ",
+        "d": "GDP gap."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 413,
+      "question": "The amount of labour hired depends on the",
+      "option": {
+        "a": "number of skilled labour available",
+        "b": "marginal productivity of labour",
+        "c": "skill of labour",
+        "d": "price of other inputs"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    }
+  ]
+}

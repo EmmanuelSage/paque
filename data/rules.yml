@@ -11,3 +11,13 @@ rules:
   steps:
   - intent: bot_challenge
   - action: utter_iamabot
+
+- rule: always run action_determine_correct_answer for select_answer
+  steps:
+  - intent: select_answer
+  - action: action_determine_correct_answer
+
+- rule: run introduction for start intent for telegram
+  steps:
+  - intent: start
+  - action: utter_start_telegram

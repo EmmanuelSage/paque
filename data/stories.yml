@@ -1,54 +1,84 @@
 version: "2.0"
 
 stories:
+  - story: Get a question happy path
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: inform
+      - action: action_get_question
+      - intent: select_answer
+        entities:
+          - selected_answer: "a"
+      - action: action_determine_correct_answer
+      - intent: goodbye
+      - action: utter_goodbye
 
-- story: Get a question happy path
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: inform
-  - action: action_get_question 
-  - intent: goodbye
-  - action: utter_goodbye
+  - story: Get a question by informing happy path
+    steps:
+      - intent: inform
+      - action: action_get_question
+      - intent: select_answer
+        entities:
+          - selected_answer: "a"
+      - action: action_determine_correct_answer
+      - intent: goodbye
+      - action: utter_goodbye
 
-- story: Get a question and ask happy path
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: inform
-  - action: action_get_question
-  - intent: give_question
-    entities:
-      - subject: "chemistry"
-  - action: action_get_question
-  - slot_was_set:
-    - slot_question: "this is a testquestion test"
-  - intent: goodbye
-  - action: utter_goodbye
+  - story: Get a question by informing happy path
+    steps:
+      - intent: inform
+      - action: action_get_question
+      - intent: select_answer
+        entities:
+          - selected_answer: "a"
+      - action: action_determine_correct_answer
+      - intent: goodbye
+      - action: utter_goodbye
+  
+  - story: Get a list of subjects happy path
+    steps:
+      - intent: know_how_many_subjects
+      - action: action_return_list_of_subjects
 
-- story: happy path
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_great
-  - action: utter_happy
+  - story: Get a question and ask happy path
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: inform
+      - action: action_get_question
+      - intent: give_question
+        entities:
+          - subject: "chemistry"
+      - action: action_get_question
+      - slot_was_set:
+          - slot_question_answer: "a"
+      - intent: goodbye
+      - action: utter_goodbye
 
-- story: sad path 1
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: affirm
-  - action: utter_happy
+  - story: happy path
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: mood_great
+      - action: utter_happy
 
-- story: sad path 2
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: deny
-  - action: utter_goodbye
+  - story: sad path 1
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: mood_unhappy
+      - action: utter_cheer_up
+      - action: utter_did_that_help
+      - intent: affirm
+      - action: utter_happy
+
+  - story: sad path 2
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: mood_unhappy
+      - action: utter_cheer_up
+      - action: utter_did_that_help
+      - intent: deny
+      - action: utter_goodbye
